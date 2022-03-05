@@ -1,12 +1,12 @@
 # .NET-6-Redis
 Redis as a Primary Db
 
-In this template:
-    we're not making use of DTOs;
-    we're using:
-        IConnectionMultiplexer: all datatypes available.
-    you could use:
-        IDistributedCache: restricted datatypes. 
+1. In this template:
+    - we're not making use of DTOs;
+    - we're using:
+        - IConnectionMultiplexer: all datatypes available.
+    - you could use:
+        - IDistributedCache: restricted datatypes. 
 
 ## References
 
